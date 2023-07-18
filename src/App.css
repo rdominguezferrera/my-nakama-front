@@ -1,0 +1,96 @@
+#root {
+  
+  margin: 0;
+  text-align: center;
+  
+}
+
+body {
+  
+  margin:0
+}
+
+.home {
+
+
+      background-image: url('../src/assets/asin.jpeg');
+      background-repeat: no-repeat;
+      background-size: cover;
+      
+
+}
+
+
+
+
+.login {
+
+    background-image: url('../src/assets/way.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    filter:sepia(.50);
+    
+    
+}
+
+.lateral {
+
+  background-image: url('../src/assets/Planeta-Namek.webp');
+  background-repeat: no-repeat;
+  background-size:cover;
+  filter: sepia(.10)
+
+}
+
+
+.enlace {
+   
+    text-decoration: none;
+  
+
+}
+
+
+.enlace2 {
+   
+    text-decoration: none;
+  
+
+}
+
+.enlace3 {
+
+  text-decoration: none;
+
+
+}
+
+
+.enlace4 {
+
+  text-decoration: none;
+
+
+}
+
+.enlace5 {
+
+  text-decoration: none;
+
+
+}
+
+.enlace6 {
+
+  text-decoration: none;
+
+
+}
+
+.enlace7 {
+
+  text-decoration: none;
+
+
+}
+
